@@ -9,7 +9,7 @@
 \BOOKMARK [2][-]{subsection.2.1.2}{Dynamic range adjustment \(DRA\)}{section.2.1}% 9
 \BOOKMARK [1][-]{section.2.2}{Detection Techniques}{chapter.2}% 10
 \BOOKMARK [2][-]{subsection.2.2.1}{Detection through Colors}{section.2.2}% 11
-\BOOKMARK [2][-]{subsection.2.2.2}{Detection through Shape}{section.2.2}% 12
+\BOOKMARK [2][-]{subsection.2.2.2}{Detection through Shapes}{section.2.2}% 12
 \BOOKMARK [2][-]{subsection.2.2.3}{Hybrid Methods}{section.2.2}% 13
 \BOOKMARK [1][-]{section.2.3}{Classification Techniques}{chapter.2}% 14
 \BOOKMARK [1][-]{section.2.4}{Tracking Techniques}{chapter.2}% 15
@@ -29,17 +29,17 @@
 \BOOKMARK [2][-]{subsection.4.2.2}{Tree Classifiers}{section.4.2}% 29
 \BOOKMARK [1][-]{section.4.3}{HOG Parameters Comparison}{chapter.4}% 30
 \BOOKMARK [2][-]{subsection.4.3.1}{Building an Effective Weight Vector}{section.4.3}% 31
-\BOOKMARK [1][-]{section.4.4}{Different Architecture Design for TSDR system}{chapter.4}% 32
+\BOOKMARK [1][-]{section.4.4}{Different Architecture Design for TSDR systems}{chapter.4}% 32
 \BOOKMARK [2][-]{subsection.4.4.1}{Two Stages of HOG+SVM Architecture}{section.4.4}% 33
 \BOOKMARK [2][-]{subsection.4.4.2}{Color Information Extraction Architecture}{section.4.4}% 34
 \BOOKMARK [2][-]{subsection.4.4.3}{ MSER Improvement Architecture }{section.4.4}% 35
-\BOOKMARK [2][-]{subsection.4.4.4}{Data Analysis}{section.4.4}% 36
+\BOOKMARK [1][-]{section.4.5}{Data Analysis}{chapter.4}% 36
 \BOOKMARK [0][-]{chapter.5}{Traffic Signs Detection and Recognition without Cameras}{}% 37
 \BOOKMARK [1][-]{section.5.1}{Introduction}{chapter.5}% 38
 \BOOKMARK [1][-]{section.5.2}{Algorithm of Computing the Distances on the Earth}{chapter.5}% 39
 \BOOKMARK [1][-]{section.5.3}{System Design}{chapter.5}% 40
-\BOOKMARK [1][-]{section.5.4}{Simulation on client-side}{chapter.5}% 41
+\BOOKMARK [1][-]{section.5.4}{Simulation on Client-side}{chapter.5}% 41
 \BOOKMARK [0][-]{chapter.6}{Conclusion and Future Plans}{}% 42
 \BOOKMARK [1][-]{section.6.1}{Conclusion}{chapter.6}% 43
 \BOOKMARK [1][-]{section.6.2}{Future Plans}{chapter.6}% 44
-\BOOKMARK [0][-]{section*.24}{References}{}% 45
+\BOOKMARK [0][-]{section*.28}{References}{}% 45

@@ -2,65 +2,74 @@
 \addvspace {10\p@ }
 \contentsline {figure}{\numberline {2.1}{\ignorespaces RGB color space \cite {36}}}{10}{figure.2.1}
 \contentsline {figure}{\numberline {2.2}{\ignorespaces RGB threshold levels}}{11}{figure.2.2}
-\contentsline {figure}{\numberline {2.3}{\ignorespaces HSV color space evolution}}{13}{figure.2.3}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces HSV color space evolution \cite {39}}}{13}{figure.2.3}
 \contentsline {figure}{\numberline {2.4}{\ignorespaces Details of the HSV model \cite {40}}}{13}{figure.2.4}
 \contentsline {figure}{\numberline {2.5}{\ignorespaces YCbCr color space \cite {49}}}{18}{figure.2.5}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {3.1}{\ignorespaces African warning traffic signs with animals}}{30}{figure.3.1}
-\contentsline {figure}{\numberline {3.2}{\ignorespaces Canadian warning traffic signs with animals}}{30}{figure.3.2}
-\contentsline {figure}{\numberline {3.3}{\ignorespaces Samples of signs in German dataset}}{31}{figure.3.3}
-\contentsline {figure}{\numberline {3.4}{\ignorespaces Samples of different speed limit}}{32}{figure.3.4}
-\contentsline {figure}{\numberline {3.5}{\ignorespaces Different background conditions of samples in NASLS}}{33}{figure.3.5}
-\contentsline {figure}{\numberline {3.6}{\ignorespaces Speed limit samples for NASLS}}{34}{figure.3.6}
-\contentsline {figure}{\numberline {3.7}{\ignorespaces Samples of negative images in a dataset}}{35}{figure.3.7}
+\contentsline {figure}{\numberline {3.1}{\ignorespaces African warning traffic signs with animals}}{31}{figure.3.1}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Canadian warning traffic signs with animals}}{31}{figure.3.2}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Samples of signs in German dataset}}{32}{figure.3.3}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Samples of different speed limit}}{33}{figure.3.4}
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Different size of samples in NASLS}}{34}{figure.3.5}
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Speed limit samples for NASLS}}{35}{figure.3.6}
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Samples of negative images in a dataset}}{36}{figure.3.7}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {4.1}{\ignorespaces Overview processing of HOG features extraction}}{37}{figure.4.1}
-\contentsline {figure}{\numberline {4.2}{\ignorespaces Examples of the features extracted by HOG}}{40}{figure.4.2}
-\contentsline {figure}{\numberline {4.3}{\ignorespaces Classification of two kinds of samples in 2-dimensional}}{44}{figure.4.3}
-\contentsline {figure}{\numberline {4.4}{\ignorespaces Optimal hyper plane under 2-dimensional space}}{45}{figure.4.4}
-\contentsline {figure}{\numberline {4.5}{\ignorespaces Situation of non-linear problems}}{47}{figure.4.5}
-\contentsline {figure}{\numberline {4.6}{\ignorespaces Performance of different filters}}{50}{figure.4.6}
-\contentsline {figure}{\numberline {4.7}{\ignorespaces Evaluations Different filters: Miss rate vs. False Positive Per Window (FPPW) curves. Lower curves show better performance}}{51}{figure.4.7}
-\contentsline {figure}{\numberline {4.8}{\ignorespaces Performance of different orientation bins}}{52}{figure.4.8}
-\contentsline {figure}{\numberline {4.9}{\ignorespaces Different bins of ``signed" gradient evaluation: Miss rate vs. False Positive Per Window (FPPW) curves. Lower curves show better performance.}}{53}{figure.4.9}
-\contentsline {figure}{\numberline {4.10}{\ignorespaces Different bins of ``unsigned" gradient evaluation: Miss rate vs. False Positive Per Window (FPPW) curves. Lower curves show better performance.}}{53}{figure.4.10}
-\contentsline {figure}{\numberline {4.11}{\ignorespaces Performance of different normalization methods}}{54}{figure.4.11}
-\contentsline {figure}{\numberline {4.12}{\ignorespaces Different ways to block normalization evaluation: Miss rate vs. False Positive Per Window (FPPW) curves. Lower curves show better performance.}}{55}{figure.4.12}
-\contentsline {figure}{\numberline {4.13}{\ignorespaces Performance of different overlaps}}{56}{figure.4.13}
-\contentsline {figure}{\numberline {4.14}{\ignorespaces Different size of block overlap evaluation: Miss rate vs. False Positive Per Window (FPPW) curves. Lower curves show better performance.}}{56}{figure.4.14}
-\contentsline {figure}{\numberline {4.15}{\ignorespaces Performance of different sizes of HOG cells, blocks, etc.}}{58}{figure.4.15}
-\contentsline {figure}{\numberline {4.16}{\ignorespaces Different size of block and cell combination evaluation: Miss rate vs. False Positive Per Window (FPPW) curves. Lower curves show better performance}}{58}{figure.4.16}
-\contentsline {figure}{\numberline {4.17}{\ignorespaces Example of final weighted vector for detection}}{60}{figure.4.17}
-\contentsline {figure}{\numberline {4.18}{\ignorespaces Model of training data after SVM\_learn}}{61}{figure.4.18}
-\contentsline {figure}{\numberline {4.19}{\ignorespaces Flow chart of HOG+SVM design}}{62}{figure.4.19}
-\contentsline {figure}{\numberline {4.20}{\ignorespaces Accuracy of RT under different nactive\_vars }}{65}{figure.4.20}
-\contentsline {figure}{\numberline {4.21}{\ignorespaces Different example signs (original image and grayscale) of different color backgrounds}}{65}{figure.4.21}
-\contentsline {figure}{\numberline {4.22}{\ignorespaces Flow chart of color information added architecture design}}{67}{figure.4.22}
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Overview processing of HOG features extraction}}{38}{figure.4.1}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Examples of the features extracted by HOG}}{41}{figure.4.2}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Experiment results under MSER analysis to extract and mark ROIs from a scene}}{43}{figure.4.3}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Original image}}}{43}{figure.4.3}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Mark MSER region at a selected threshold}}}{43}{figure.4.3}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Classification of two kinds of samples in 2-dimensional}}{45}{figure.4.4}
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Optimal hyper plane under 2-dimensional space}}{46}{figure.4.5}
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Situation of non-linear problems}}{47}{figure.4.6}
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Performance of different filters}}{51}{figure.4.7}
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Evaluations Different filters: Miss rate vs. False Positive Per Window (FPPW) curves. Lower curves show better performance}}{51}{figure.4.8}
+\contentsline {figure}{\numberline {4.9}{\ignorespaces Performance of different orientation bins}}{53}{figure.4.9}
+\contentsline {figure}{\numberline {4.10}{\ignorespaces Different bins of ``signed" gradient evaluation: Miss rate vs. False Positive Per Window (FPPW) curves. Lower curves show better performance.}}{53}{figure.4.10}
+\contentsline {figure}{\numberline {4.11}{\ignorespaces Different bins of ``unsigned" gradient evaluation: Miss rate vs. False Positive Per Window (FPPW) curves. Lower curves show better performance.}}{54}{figure.4.11}
+\contentsline {figure}{\numberline {4.12}{\ignorespaces Performance of different normalization methods}}{55}{figure.4.12}
+\contentsline {figure}{\numberline {4.13}{\ignorespaces Different ways to block normalization evaluation: Miss rate vs. False Positive Per Window (FPPW) curves. Lower curves show better performance.}}{55}{figure.4.13}
+\contentsline {figure}{\numberline {4.14}{\ignorespaces Performance of different overlaps}}{57}{figure.4.14}
+\contentsline {figure}{\numberline {4.15}{\ignorespaces Different block overlaps evaluation: Miss rate vs. False Positive Per Window (FPPW) curves. Lower curves show better performance.}}{57}{figure.4.15}
+\contentsline {figure}{\numberline {4.16}{\ignorespaces Performance of different sizes of HOG cells, blocks, etc.}}{58}{figure.4.16}
+\contentsline {figure}{\numberline {4.17}{\ignorespaces Different size of block and cell combination evaluation: Miss rate vs. False Positive Per Window (FPPW) curves. Lower curves show better performance}}{59}{figure.4.17}
+\contentsline {figure}{\numberline {4.18}{\ignorespaces Example of final weighted vector for detection}}{60}{figure.4.18}
+\contentsline {figure}{\numberline {4.19}{\ignorespaces Model of training data after SVM\_learn}}{62}{figure.4.19}
+\contentsline {figure}{\numberline {4.20}{\ignorespaces Flow chart of HOG+SVM design}}{63}{figure.4.20}
+\contentsline {figure}{\numberline {4.21}{\ignorespaces Accuracy of RT under different nactive\_vars }}{66}{figure.4.21}
+\contentsline {figure}{\numberline {4.22}{\ignorespaces Different example signs (original image and grayscale) of different color backgrounds}}{67}{figure.4.22}
 \contentsline {figure}{\numberline {4.23}{\ignorespaces Flow chart of color information added architecture design}}{68}{figure.4.23}
-\contentsline {figure}{\numberline {4.24}{\ignorespaces Results of system testing under different weather conditions}}{69}{figure.4.24}
-\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Sunny weather}}}{69}{figure.4.24}
-\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Snowy weather}}}{69}{figure.4.24}
-\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Sunny weather}}}{69}{figure.4.24}
-\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {Normal weather}}}{69}{figure.4.24}
-\contentsline {subfigure}{\numberline {(e)}{\ignorespaces {Cloudy weather}}}{69}{figure.4.24}
-\contentsline {subfigure}{\numberline {(f)}{\ignorespaces {Somber weather}}}{69}{figure.4.24}
-\contentsline {subfigure}{\numberline {(g)}{\ignorespaces {Sunny weather}}}{69}{figure.4.24}
-\contentsline {figure}{\numberline {4.25}{\ignorespaces Flow chart using MSER}}{72}{figure.4.25}
-\contentsline {figure}{\numberline {4.26}{\ignorespaces Results of MSER testing}}{72}{figure.4.26}
-\contentsline {figure}{\numberline {4.27}{\ignorespaces Performance of color information extraction system}}{73}{figure.4.27}
-\contentsline {figure}{\numberline {4.28}{\ignorespaces Accuracy of different colored backgrounds signs examples}}{74}{figure.4.28}
-\contentsline {figure}{\numberline {4.29}{\ignorespaces Based on HOG first ROIs extraction}}{76}{figure.4.29}
-\contentsline {figure}{\numberline {4.30}{\ignorespaces Based on MSER get first ROIs extraction}}{76}{figure.4.30}
-\contentsline {figure}{\numberline {4.31}{\ignorespaces Time cost of HOG vs. MSER first extraction of ROIs}}{77}{figure.4.31}
-\contentsline {figure}{\numberline {4.32}{\ignorespaces HOG vs MSER for total time cost for whole system}}{77}{figure.4.32}
-\contentsline {figure}{\numberline {4.33}{\ignorespaces Comparison of the average time cost for the two methods}}{78}{figure.4.33}
+\contentsline {figure}{\numberline {4.24}{\ignorespaces Flow chart of color information extraction design}}{70}{figure.4.24}
+\contentsline {figure}{\numberline {4.25}{\ignorespaces Results of system testing under different weather conditions}}{72}{figure.4.25}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Sunny weather}}}{72}{figure.4.25}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Snowy weather}}}{72}{figure.4.25}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Sunny weather}}}{72}{figure.4.25}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {Normal weather}}}{72}{figure.4.25}
+\contentsline {subfigure}{\numberline {(e)}{\ignorespaces {Cloudy weather}}}{72}{figure.4.25}
+\contentsline {subfigure}{\numberline {(f)}{\ignorespaces {Somber weather}}}{72}{figure.4.25}
+\contentsline {subfigure}{\numberline {(g)}{\ignorespaces {Sunny weather}}}{72}{figure.4.25}
+\contentsline {figure}{\numberline {4.26}{\ignorespaces Experiment results under MSER analysis to extract and mark ROIs of a scene}}{73}{figure.4.26}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Original image}}}{73}{figure.4.26}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {MSER method focus on gray image}}}{73}{figure.4.26}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {MSER method focus on normalized R/B image}}}{73}{figure.4.26}
+\contentsline {figure}{\numberline {4.27}{\ignorespaces Flow chart using MSER}}{74}{figure.4.27}
+\contentsline {figure}{\numberline {4.28}{\ignorespaces Results of MSER testing}}{75}{figure.4.28}
+\contentsline {figure}{\numberline {4.29}{\ignorespaces Performance of color information extraction system}}{75}{figure.4.29}
+\contentsline {figure}{\numberline {4.30}{\ignorespaces Evaluation of performance for different signs recognition: Miss rate vs. False Positive Per Window (FPPW) curves. Lower curves show better performance }}{76}{figure.4.30}
+\contentsline {figure}{\numberline {4.31}{\ignorespaces True Probability of ROIs extraction in different methods}}{77}{figure.4.31}
+\contentsline {figure}{\numberline {4.32}{\ignorespaces Average True Probability of ROIs of differnet methods in first extraction stage}}{78}{figure.4.32}
+\contentsline {figure}{\numberline {4.33}{\ignorespaces Data of video experiments based on HOG first ROIs extraction}}{79}{figure.4.33}
+\contentsline {figure}{\numberline {4.34}{\ignorespaces Data of video experiments based on MSER get first ROIs extraction}}{79}{figure.4.34}
+\contentsline {figure}{\numberline {4.35}{\ignorespaces Time cost of HOG vs. MSER first extraction of ROIs}}{80}{figure.4.35}
+\contentsline {figure}{\numberline {4.36}{\ignorespaces HOG vs MSER for total time cost for whole system}}{80}{figure.4.36}
+\contentsline {figure}{\numberline {4.37}{\ignorespaces Comparison of the average time cost for the two methods}}{81}{figure.4.37}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {5.1}{\ignorespaces Calculation of inferior arc \cite {125}}}{81}{figure.5.1}
-\contentsline {figure}{\numberline {5.2}{\ignorespaces The Earth center rectangular coordinate system \cite {125}}}{84}{figure.5.2}
-\contentsline {figure}{\numberline {5.3}{\ignorespaces Data of first sign position near-by}}{87}{figure.5.3}
-\contentsline {figure}{\numberline {5.4}{\ignorespaces Results of using new method}}{87}{figure.5.4}
-\contentsline {figure}{\numberline {5.5}{\ignorespaces Data of second sign position near-by}}{88}{figure.5.5}
-\contentsline {figure}{\numberline {5.6}{\ignorespaces Results of using new method}}{88}{figure.5.6}
-\contentsline {figure}{\numberline {5.7}{\ignorespaces Total time cost of these three methods}}{89}{figure.5.7}
-\contentsline {figure}{\numberline {5.8}{\ignorespaces Comparison of average time cost of different methods}}{90}{figure.5.8}
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Calculation of inferior arc \cite {125}}}{84}{figure.5.1}
+\contentsline {figure}{\numberline {5.2}{\ignorespaces The Earth center rectangular coordinate system \cite {125}}}{87}{figure.5.2}
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Data of first sign position near-by}}{90}{figure.5.3}
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Results of using new method}}{90}{figure.5.4}
+\contentsline {figure}{\numberline {5.5}{\ignorespaces Data of second sign position near-by}}{91}{figure.5.5}
+\contentsline {figure}{\numberline {5.6}{\ignorespaces Results of using new method}}{91}{figure.5.6}
+\contentsline {figure}{\numberline {5.7}{\ignorespaces Total time cost of three used TSDR systems}}{92}{figure.5.7}
+\contentsline {figure}{\numberline {5.8}{\ignorespaces Comparison of average time cost of different TSDR systems}}{93}{figure.5.8}
 \addvspace {10\p@ }

@@ -7,68 +7,56 @@ A level-1 auxiliary file: parts/50.aux
 A level-1 auxiliary file: parts/60.aux
 The style file: unsrtnat.bst
 Database file #1: bibliography/keylatex.bib
-You're missing a field name---line 985 of file bibliography/keylatex.bib
+You're missing a field name---line 994 of file bibliography/keylatex.bib
  :   
  :   %title={Pattern recognition using generalized portrait method},
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-You're missing a field name---line 994 of file bibliography/keylatex.bib
+You're missing a field name---line 1003 of file bibliography/keylatex.bib
  :  
  :  % title={On the uniform convergence of relative frequencies of events to their probabilities},
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-You're missing a field name---line 1005 of file bibliography/keylatex.bib
+You're missing a field name---line 1014 of file bibliography/keylatex.bib
  : 
  : %  title={Estimation of dependences %based on empirical data},
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-You're missing a field name---line 1012 of file bibliography/keylatex.bib
+You're missing a field name---line 1021 of file bibliography/keylatex.bib
  : 
  : %  title={A training algorithm for optimal margin classifiers},
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-You're missing a field name---line 1021 of file bibliography/keylatex.bib
+You're missing a field name---line 1030 of file bibliography/keylatex.bib
  : 
  : %  title={The nature of statistical learning theory},
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
-You're missing a field name---line 1028 of file bibliography/keylatex.bib
- : 
- : %  title={A tutorial on support vector machines for pattern recognition},
-(Error may have been on previous line)
-I'm skipping whatever remains of this entry
-Repeated entry---line 1038 of file bibliography/keylatex.bib
- : @incollection{112
- :                  ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 1047 of file bibliography/keylatex.bib
- : @inproceedings{113
- :                   ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 1056 of file bibliography/keylatex.bib
- : @article{114
+Repeated entry---line 1036 of file bibliography/keylatex.bib
+ : @article{112
  :             ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 1067 of file bibliography/keylatex.bib
+Repeated entry---line 1047 of file bibliography/keylatex.bib
+ : @incollection{113
+ :                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1056 of file bibliography/keylatex.bib
+ : @inproceedings{114
+ :                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1065 of file bibliography/keylatex.bib
  : @article{115
  :             ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 1078 of file bibliography/keylatex.bib
- : @misc{116
- :          ,
+Repeated entry---line 1076 of file bibliography/keylatex.bib
+ : @article{116
+ :             ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 1084 of file bibliography/keylatex.bib
- : @inproceedings{117
- :                   ,
-I'm skipping whatever remains of this entry
-Warning--I didn't find a database entry for "125"
-Warning--I didn't find a database entry for "38"
-Warning--I didn't find a database entry for "245"
-Warning--I didn't find a database entry for "90"
-Warning--I didn't find a database entry for "97"
 Warning--empty year in 36
+Warning--empty year in 39
 Warning--empty year in 40
 Warning--empty year in 49
+Warning--there's a number but no volume in 125
 Warning--empty year in 1
 Warning--empty year in 1
 Warning--empty year in 9
@@ -81,7 +69,6 @@ Warning--there's a number but no volume in 105
 Warning--empty journal in 106
 Warning--empty year in 107
 Warning--empty year in 108
-Warning--empty year in 39
 Warning--empty author in 112
 Warning--empty title in 112
 Warning--empty journal in 112
@@ -107,11 +94,7 @@ Warning--empty title in 116
 Warning--empty publisher in 116
 Warning--empty year in 116
 Warning--empty year in 116
-Warning--empty author in 117
-Warning--empty title in 117
-Warning--empty journal in 117
 Warning--empty year in 117
-Warning--empty year in 117
-Warning--empty year in 118
-Warning--there's a number but no volume in 124
-(There were 12 error messages)
+Warning--empty year in 119
+Warning--there's a number but no series in 126
+(There were 10 error messages)

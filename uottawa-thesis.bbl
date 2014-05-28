@@ -1,4 +1,4 @@
-\begin{thebibliography}{117}
+\begin{thebibliography}{120}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -9,6 +9,11 @@
 \emph{RGB Color Space}.
 \newblock
   \url{http://photo.hanyu.iciba.com/upload/encyclopedia_2/88/95/bk_889574aebacda6bfd3e534e2b49b8028_vheBLq.jpg}.
+
+\bibitem[39()]{39}
+\emph{HSV Color Space}.
+\newblock
+  \url{http://www.tsi.telecom-paristech.fr/pages/enseignement/ressources/beti/correl_couleur/images/couleur-HSV2-hexcone.jpg}.
 
 \bibitem[Otto()]{40}
 George Otto.
@@ -21,6 +26,12 @@ Intel.
 \newblock \emph{Color Models}.
 \newblock
   \url{https://software.intel.com/sites/products/documentation/hpc/ipp/ippi/ippi_ch6/ch6_color_models.html}.
+
+\bibitem[Wei(2008)]{125}
+Yu~Wei.
+\newblock The distance between two points under the consideration of the
+  curvature of the earth.
+\newblock \emph{Aero Weaponry}, \penalty0 (3):\penalty0 7--11, 2008.
 
 \bibitem[Akatsuka and Imai()]{1}
 Hidehiko Akatsuka and Shinichiro Imai.
@@ -143,13 +154,13 @@ Greg Ward.
 \newblock In \emph{Color and Imaging Conference}, volume 2001, pages 9--16.
   Society for Imaging Science and Technology, 2001.
 
-\bibitem[Paristech et~al.()Paristech, Dorizzi, Christian, Patrick, Examinateur,
-  Bogdan, Examinateur, Fawzi, and Examinateur]{21}
+\bibitem[Paristech et~al.({\natexlab{a}})Paristech, Dorizzi, Christian,
+  Patrick, Examinateur, Bogdan, Examinateur, Fawzi, and Examinateur]{21}
 Doctorat Paristech, Mme~Bernadette Dorizzi, M.~Christian, M.~Patrick, Siarry
   Examinateur, M.~Bogdan, Stanciulescu Examinateur, M.~Fawzi, and Nashashibi
   Examinateur.
 \newblock Multiclass object recognition for driving assistance systems and
-  video surveillance.
+  video surveillance, {\natexlab{a}}.
 
 \bibitem[Arens et~al.(1991)Arens, Saremi, and Simmons]{22}
 JB~Arens, AR~Saremi, and CJ~Simmons.
@@ -298,6 +309,12 @@ Saturnino Maldonado-Bascon, Sergio Lafuente-Arroyo, Pedro Gil-Jimenez, Hilario
 \newblock Road-sign detection and recognition based on support vector machines.
 \newblock \emph{Intelligent Transportation Systems, IEEE Transactions on},
   8\penalty0 (2):\penalty0 264--278, 2007.
+
+\bibitem[Huang and Sun(2004)]{38}
+Zhiyong Huang and guangmin Sun.
+\newblock Traffic sign segment based on rgb vision model.
+\newblock \emph{Intelligent Transportation Systems, IEEE Transactions on},
+  21\penalty0 (10):\penalty0 147--152, 2004.
 
 \bibitem[Smith(1978)]{41}
 Alvy~Ray Smith.
@@ -678,17 +695,6 @@ Johannes Stallkamp, Marc Schlipsing, Jan Salmen, and Christian Igel.
   traffic sign recognition.
 \newblock \emph{Neural networks}, 32:\penalty0 323--332, 2012.
 
-\bibitem[Kehtarnavaz and Ahmad(1995)]{31}
-N~Kehtarnavaz and A~Ahmad.
-\newblock Traffic sign recognition in noisy outdoor scenes.
-\newblock In \emph{Intelligent Vehicles' 95 Symposium., Proceedings of the},
-  pages 460--465. IEEE, 1995.
-
-\bibitem[39()]{39}
-\emph{HSV Color Space}.
-\newblock
-  \url{http://www.tsi.telecom-paristech.fr/pages/enseignement/ressources/beti/correl_couleur/images/couleur-HSV2-hexcone.jpg}.
-
 \bibitem[Matas et~al.(2004{\natexlab{a}})Matas, Chum, Urban, and Pajdla]{111}
 Jiri Matas, Ondrej Chum, Martin Urban, and Tom{\'a}s Pajdla.
 \newblock Robust wide-baseline stereo from maximally stable extremal regions.
@@ -710,34 +716,63 @@ Jiri Matas, Ondrej Chum, Martin Urban, and Tom{\'a}s Pajdla.
 \bibitem[116()]{116}
 
 
-\bibitem[117()]{117}
+\bibitem[Paristech et~al.({\natexlab{b}})Paristech, Dorizzi, Christian,
+  Patrick, Examinateur, Bogdan, Examinateur, Fawzi, and Examinateur]{117}
+Doctorat Paristech, Mme~Bernadette Dorizzi, M.~Christian, M.~Patrick, Siarry
+  Examinateur, M.~Bogdan, Stanciulescu Examinateur, M.~Fawzi, and Nashashibi
+  Examinateur.
+\newblock Multiclass object recognition for driving assistance systems and
+  video surveillance, {\natexlab{b}}.
 
+\bibitem[Gritti et~al.(2008)Gritti, Shan, Jeanne, and Braspenning]{118}
+T.~Gritti, Caifeng Shan, V.~Jeanne, and R.~Braspenning.
+\newblock Local features based facial expression recognition with face
+  registration errors.
+\newblock In \emph{Automatic Face Gesture Recognition, 2008. FG '08. 8th IEEE
+  International Conference on}, pages 1--8, Sept 2008.
+\newblock \doi{10.1109/AFGR.2008.4813379}.
 
-\bibitem[Joachims()]{118}
+\bibitem[Joachims()]{119}
 Thorsten Joachims.
 \newblock \emph{Support Vector Machine}.
 \newblock \url{http://svmlight.joachims.org/}.
 
-\bibitem[Stallkamp et~al.(2011)Stallkamp, Schlipsing, Salmen, and Igel]{119}
+\bibitem[Houben et~al.(2013)Houben, Stallkamp, Salmen, Schlipsing, and
+  Igel]{126}
+Sebastian Houben, Johannes Stallkamp, Jan Salmen, Marc Schlipsing, and
+  Christian Igel.
+\newblock Detection of traffic signs in real-world images: The {G}erman
+  {T}raffic {S}ign {D}etection {B}enchmark.
+\newblock In \emph{International Joint Conference on Neural Networks}, number
+  1288, 2013.
+
+\bibitem[Stallkamp et~al.(2011)Stallkamp, Schlipsing, Salmen, and Igel]{120}
 Johannes Stallkamp, Marc Schlipsing, Jan Salmen, and Christian Igel.
 \newblock The german traffic sign recognition benchmark: a multi-class
   classification competition.
 \newblock In \emph{Neural Networks (IJCNN), The 2011 International Joint
   Conference on}, pages 1453--1460. IEEE, 2011.
 
-\bibitem[Zaklouta et~al.(2011)Zaklouta, Stanciulescu, and Hamdoun]{120}
+\bibitem[Mammeri et~al.(2013{\natexlab{c}})Mammeri, Boukerche, Feng, and
+  Wang]{124}
+Abdelhamid Mammeri, Azzedine Boukerche, Jingwen Feng, and Renfei Wang.
+\newblock Traffic sign detection, recognition and transmission system for smart
+  vehicles.
+\newblock In \emph{GlobalCom}, 2013{\natexlab{c}}.
+
+\bibitem[Zaklouta et~al.(2011)Zaklouta, Stanciulescu, and Hamdoun]{121}
 Fatin Zaklouta, Bogdan Stanciulescu, and Omar Hamdoun.
 \newblock Traffic sign classification using kd trees and random forests.
 \newblock In \emph{Neural Networks (IJCNN), The 2011 International Joint
   Conference on}, pages 2151--2155. IEEE, 2011.
 
-\bibitem[Matas et~al.(2004{\natexlab{b}})Matas, Chum, Urban, and Pajdla]{121}
+\bibitem[Matas et~al.(2004{\natexlab{b}})Matas, Chum, Urban, and Pajdla]{122}
 Jiri Matas, Ondrej Chum, Martin Urban, and Tom{\'a}s Pajdla.
 \newblock Robust wide-baseline stereo from maximally stable extremal regions.
 \newblock \emph{Image and vision computing}, 22\penalty0 (10):\penalty0
   761--767, 2004{\natexlab{b}}.
 
-\bibitem[Greenhalgh and Mirmehdi(2012)]{122}
+\bibitem[Greenhalgh and Mirmehdi(2012)]{123}
 J.~Greenhalgh and M.~Mirmehdi.
 \newblock Real-time detection and recognition of road traffic signs.
 \newblock \emph{Intelligent Transportation Systems, IEEE Transactions on},
@@ -745,17 +780,10 @@ J.~Greenhalgh and M.~Mirmehdi.
 \newblock ISSN 1524-9050.
 \newblock \doi{10.1109/TITS.2012.2208909}.
 
-\bibitem[Mammeri et~al.(2013{\natexlab{c}})Mammeri, Boukerche, Feng, and
-  Wang]{123}
-Abdelhamid Mammeri, Azzedine Boukerche, Jingwen Feng, and Renfei Wang.
-\newblock Traffic sign detection, recognition and transmission system for smart
-  vehicles.
-\newblock In \emph{GlobalCom}, 2013{\natexlab{c}}.
-
-\bibitem[Wei(2008)]{124}
-Yu~Wei.
-\newblock The distance between two points under the consideration of the
-  curvature of the earth.
-\newblock \emph{Aero Weaponry}, \penalty0 (3):\penalty0 7--11, 2008.
+\bibitem[Kehtarnavaz and Ahmad(1995)]{31}
+N~Kehtarnavaz and A~Ahmad.
+\newblock Traffic sign recognition in noisy outdoor scenes.
+\newblock In \emph{Intelligent Vehicles' 95 Symposium., Proceedings of the},
+  pages 460--465. IEEE, 1995.
 
 \end{thebibliography}

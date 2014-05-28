@@ -5,58 +5,62 @@
 \contentsline {section}{\numberline {1.2}Thesis Outline}{2}{section.1.2}
 \contentsline {chapter}{\numberline {2}Related Work}{4}{chapter.2}
 \contentsline {section}{\numberline {2.1}Pre-processing Techniques}{5}{section.2.1}
-\contentsline {subsection}{\numberline {2.1.1}Camera calibration}{5}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.1}Camera calibration}{6}{subsection.2.1.1}
 \contentsline {subsection}{\numberline {2.1.2}Dynamic range adjustment (DRA)}{7}{subsection.2.1.2}
 \contentsline {section}{\numberline {2.2}Detection Techniques}{8}{section.2.2}
 \contentsline {subsection}{\numberline {2.2.1}Detection through Colors}{8}{subsection.2.2.1}
 \contentsline {subsubsection}{RGB color space}{9}{section*.7}
 \contentsline {subsubsection}{HSV color space}{12}{section*.8}
 \contentsline {subsubsection}{HSI color space}{15}{section*.9}
-\contentsline {subsubsection}{Other color space}{16}{section*.10}
-\contentsline {subsection}{\numberline {2.2.2}Detection through Shape}{20}{subsection.2.2.2}
+\contentsline {subsubsection}{Other color space}{17}{section*.10}
+\contentsline {subsection}{\numberline {2.2.2}Detection through Shapes}{20}{subsection.2.2.2}
 \contentsline {subsubsection}{Template matching \cite {62} ,\cite {63}}{20}{section*.11}
-\contentsline {subsubsection}{Hough Transform}{20}{section*.12}
+\contentsline {subsubsection}{Hough Transform}{21}{section*.12}
 \contentsline {subsubsection}{Edge detection}{21}{section*.13}
 \contentsline {subsubsection}{Graphic coding method}{22}{section*.14}
 \contentsline {subsubsection}{Neural network (NN)}{22}{section*.15}
-\contentsline {subsubsection}{Extraction through gradient features}{22}{section*.16}
+\contentsline {subsubsection}{Extraction through gradient features}{23}{section*.16}
 \contentsline {subsubsection}{Other methods}{24}{section*.17}
 \contentsline {subsection}{\numberline {2.2.3}Hybrid Methods}{24}{subsection.2.2.3}
 \contentsline {section}{\numberline {2.3}Classification Techniques}{25}{section.2.3}
-\contentsline {section}{\numberline {2.4}Tracking Techniques}{27}{section.2.4}
-\contentsline {chapter}{\numberline {3}Traffic Signs Dataset Creation}{29}{chapter.3}
-\contentsline {section}{\numberline {3.1}Background}{29}{section.3.1}
-\contentsline {section}{\numberline {3.2}Traffic Sign Specifications}{30}{section.3.2}
-\contentsline {subsection}{\numberline {3.2.1}Differences between European and North American Signs}{31}{subsection.3.2.1}
-\contentsline {section}{\numberline {3.3}Dataset Creation Process}{32}{section.3.3}
-\contentsline {subsection}{\numberline {3.3.1} Data Collection}{32}{subsection.3.3.1}
-\contentsline {subsection}{\numberline {3.3.2}Data Organization}{33}{subsection.3.3.2}
-\contentsline {chapter}{\numberline {4}TSDR System Architecture Design}{36}{chapter.4}
-\contentsline {section}{\numberline {4.1}Algorithm used in Detection Stage}{36}{section.4.1}
-\contentsline {subsection}{\numberline {4.1.1}HOG Descriptors}{36}{subsection.4.1.1}
-\contentsline {subsubsection}{Color normalization}{38}{section*.18}
-\contentsline {subsubsection}{Gradient computation}{38}{section*.19}
-\contentsline {subsubsection}{Orientation histogram creation}{39}{section*.20}
-\contentsline {subsubsection}{Histogram normalization and descriptor blocks}{39}{section*.21}
-\contentsline {subsection}{\numberline {4.1.2}MSER Segmentation Used for Detection}{41}{subsection.4.1.2}
+\contentsline {section}{\numberline {2.4}Tracking Techniques}{28}{section.2.4}
+\contentsline {chapter}{\numberline {3}Traffic Signs Dataset Creation}{30}{chapter.3}
+\contentsline {section}{\numberline {3.1}Background}{30}{section.3.1}
+\contentsline {section}{\numberline {3.2}Traffic Sign Specifications}{31}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Differences between European and North American Signs}{32}{subsection.3.2.1}
+\contentsline {section}{\numberline {3.3}Dataset Creation Process}{33}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1} Data Collection}{33}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}Data Organization}{34}{subsection.3.3.2}
+\contentsline {chapter}{\numberline {4}TSDR System Architecture Design}{37}{chapter.4}
+\contentsline {section}{\numberline {4.1}Algorithm used in Detection Stage}{37}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}HOG Descriptors}{37}{subsection.4.1.1}
+\contentsline {subsubsection}{Color normalization}{39}{section*.18}
+\contentsline {subsubsection}{Gradient computation}{39}{section*.19}
+\contentsline {subsubsection}{Orientation histogram creation}{40}{section*.20}
+\contentsline {subsubsection}{Histogram normalization and descriptor blocks}{40}{section*.21}
+\contentsline {subsection}{\numberline {4.1.2}MSER Segmentation Used for Detection}{42}{subsection.4.1.2}
 \contentsline {section}{\numberline {4.2}Algorithm used in Classification Stage}{43}{section.4.2}
-\contentsline {subsection}{\numberline {4.2.1}Support Vector Machines (SVMs)}{43}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.1}Support Vector Machines (SVMs)}{44}{subsection.4.2.1}
 \contentsline {subsection}{\numberline {4.2.2}Tree Classifiers}{48}{subsection.4.2.2}
-\contentsline {subsubsection}{Random Forest}{48}{section*.22}
+\contentsline {subsubsection}{Random Forest}{49}{section*.22}
 \contentsline {section}{\numberline {4.3}HOG Parameters Comparison}{49}{section.4.3}
+\contentsline {subsubsection}{Gradient computation}{50}{section*.23}
+\contentsline {subsubsection}{Orientation binning}{52}{section*.24}
+\contentsline {subsubsection}{Histogram normalization}{54}{section*.25}
+\contentsline {subsubsection}{Block Overlap}{56}{section*.26}
 \contentsline {subsection}{\numberline {4.3.1}Building an Effective Weight Vector}{59}{subsection.4.3.1}
-\contentsline {section}{\numberline {4.4}Different Architecture Design for TSDR system}{61}{section.4.4}
+\contentsline {section}{\numberline {4.4}Different Architecture Design for TSDR systems}{62}{section.4.4}
 \contentsline {subsection}{\numberline {4.4.1}Two Stages of HOG+SVM Architecture}{62}{subsection.4.4.1}
-\contentsline {subsubsection}{Comparing SVM with Random Forest Classifiers}{64}{section*.23}
-\contentsline {subsection}{\numberline {4.4.2}Color Information Extraction Architecture}{65}{subsection.4.4.2}
-\contentsline {subsection}{\numberline {4.4.3} MSER Improvement Architecture }{70}{subsection.4.4.3}
-\contentsline {subsection}{\numberline {4.4.4}Data Analysis}{73}{subsection.4.4.4}
-\contentsline {chapter}{\numberline {5}Traffic Signs Detection and Recognition without Cameras}{79}{chapter.5}
-\contentsline {section}{\numberline {5.1}Introduction}{79}{section.5.1}
-\contentsline {section}{\numberline {5.2}Algorithm of Computing the Distances on the Earth}{80}{section.5.2}
-\contentsline {section}{\numberline {5.3}System Design}{85}{section.5.3}
-\contentsline {section}{\numberline {5.4}Simulation on client-side}{86}{section.5.4}
-\contentsline {chapter}{\numberline {6}Conclusion and Future Plans}{91}{chapter.6}
-\contentsline {section}{\numberline {6.1}Conclusion}{91}{section.6.1}
-\contentsline {section}{\numberline {6.2}Future Plans}{92}{section.6.2}
-\contentsline {chapter}{\textbf {References}}{93}{section*.24}
+\contentsline {subsubsection}{Comparing SVM with Random Forest Classifiers}{65}{section*.27}
+\contentsline {subsection}{\numberline {4.4.2}Color Information Extraction Architecture}{67}{subsection.4.4.2}
+\contentsline {subsection}{\numberline {4.4.3} MSER Improvement Architecture }{71}{subsection.4.4.3}
+\contentsline {section}{\numberline {4.5}Data Analysis}{73}{section.4.5}
+\contentsline {chapter}{\numberline {5}Traffic Signs Detection and Recognition without Cameras}{82}{chapter.5}
+\contentsline {section}{\numberline {5.1}Introduction}{82}{section.5.1}
+\contentsline {section}{\numberline {5.2}Algorithm of Computing the Distances on the Earth}{83}{section.5.2}
+\contentsline {section}{\numberline {5.3}System Design}{88}{section.5.3}
+\contentsline {section}{\numberline {5.4}Simulation on Client-side}{89}{section.5.4}
+\contentsline {chapter}{\numberline {6}Conclusion and Future Plans}{94}{chapter.6}
+\contentsline {section}{\numberline {6.1}Conclusion}{94}{section.6.1}
+\contentsline {section}{\numberline {6.2}Future Plans}{95}{section.6.2}
+\contentsline {chapter}{\textbf {References}}{96}{section*.28}

@@ -1,0 +1,20 @@
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {2.1}{HSV component analysis}}{15}{table.2.1}
+\contentsline {table}{\numberline {2.2}{The overview of some existing color segmentation techniques}}{19}{table.2.2}
+\contentsline {table}{\numberline {2.3}{The overview of some existing shape segmentation techniques}}{23}{table.2.3}
+\contentsline {table}{\numberline {2.4}{The overview of some existing classification techniques}}{27}{table.2.4}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {4.1}{Experiment results under MSER analysis to extract and mark ROIs from a scene}}{42}{table.4.1}
+\contentsline {table}{\numberline {4.2}{\ignorespaces Effect of different gradient computation on detection performance }}{50}{table.4.2}
+\contentsline {table}{\numberline {4.3}{\ignorespaces Data of different parameters of HOG orientation bins}}{51}{table.4.3}
+\contentsline {table}{\numberline {4.4}{\ignorespaces Data of different normalization methods }}{54}{table.4.4}
+\contentsline {table}{\numberline {4.5}{\ignorespaces Data of different overlaps }}{55}{table.4.5}
+\contentsline {table}{\numberline {4.6}{\ignorespaces Data of different sizes of HOG cells }}{57}{table.4.6}
+\contentsline {table}{\numberline {4.7}{\ignorespaces Training information}}{60}{table.4.7}
+\contentsline {table}{\numberline {4.8}{Experiment results under MSER analysis to extract and mark ROIs from a scene}}{71}{table.4.8}
+\contentsline {table}{\numberline {4.9}{\ignorespaces Data for recognition rate of different colored background signs }}{73}{table.4.9}
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {5.1}{\ignorespaces Comparisons of different algorithms in calculation distances}}{85}{table.5.1}
+\addvspace {10\p@ }

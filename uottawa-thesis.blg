@@ -7,51 +7,6 @@ A level-1 auxiliary file: parts/50.aux
 A level-1 auxiliary file: parts/60.aux
 The style file: unsrtnat.bst
 Database file #1: bibliography/keylatex.bib
-You're missing a field name---line 994 of file bibliography/keylatex.bib
- :   
- :   %title={Pattern recognition using generalized portrait method},
-(Error may have been on previous line)
-I'm skipping whatever remains of this entry
-You're missing a field name---line 1003 of file bibliography/keylatex.bib
- :  
- :  % title={On the uniform convergence of relative frequencies of events to their probabilities},
-(Error may have been on previous line)
-I'm skipping whatever remains of this entry
-You're missing a field name---line 1014 of file bibliography/keylatex.bib
- : 
- : %  title={Estimation of dependences %based on empirical data},
-(Error may have been on previous line)
-I'm skipping whatever remains of this entry
-You're missing a field name---line 1021 of file bibliography/keylatex.bib
- : 
- : %  title={A training algorithm for optimal margin classifiers},
-(Error may have been on previous line)
-I'm skipping whatever remains of this entry
-You're missing a field name---line 1030 of file bibliography/keylatex.bib
- : 
- : %  title={The nature of statistical learning theory},
-(Error may have been on previous line)
-I'm skipping whatever remains of this entry
-Repeated entry---line 1036 of file bibliography/keylatex.bib
- : @article{112
- :             ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 1047 of file bibliography/keylatex.bib
- : @incollection{113
- :                  ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 1056 of file bibliography/keylatex.bib
- : @inproceedings{114
- :                   ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 1065 of file bibliography/keylatex.bib
- : @article{115
- :             ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 1076 of file bibliography/keylatex.bib
- : @article{116
- :             ,
-I'm skipping whatever remains of this entry
 Warning--empty year in 36
 Warning--empty year in 39
 Warning--empty year in 40
@@ -69,32 +24,7 @@ Warning--there's a number but no volume in 105
 Warning--empty journal in 106
 Warning--empty year in 107
 Warning--empty year in 108
-Warning--empty author in 112
-Warning--empty title in 112
-Warning--empty journal in 112
-Warning--empty year in 112
-Warning--empty year in 112
-Warning--empty author in 113
-Warning--empty title in 113
-Warning--empty journal in 113
-Warning--empty year in 113
-Warning--empty year in 113
-Warning--empty author and editor in 114
-Warning--empty title in 114
-Warning--empty publisher in 114
-Warning--empty year in 114
-Warning--empty year in 114
-Warning--empty author in 115
-Warning--empty title in 115
-Warning--empty booktitle in 115
-Warning--empty year in 115
-Warning--empty year in 115
-Warning--empty author and editor in 116
-Warning--empty title in 116
-Warning--empty publisher in 116
-Warning--empty year in 116
-Warning--empty year in 116
+Warning--there's a number but no series in 126
 Warning--empty year in 117
 Warning--empty year in 119
-Warning--there's a number but no series in 126
-(There were 10 error messages)
+(There were 20 warnings)

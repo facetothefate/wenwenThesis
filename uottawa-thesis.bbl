@@ -681,6 +681,15 @@ San~Diego University~of California.
 \newblock \emph{Yale Face Database}.
 \newblock \url{http://vision.ucsd.edu/content/yale-face-database}.
 
+\bibitem[Houben et~al.(2013)Houben, Stallkamp, Salmen, Schlipsing, and
+  Igel]{126}
+Sebastian Houben, Johannes Stallkamp, Jan Salmen, Marc Schlipsing, and
+  Christian Igel.
+\newblock Detection of traffic signs in real-world images: The {G}erman
+  {T}raffic {S}ign {D}etection {B}enchmark.
+\newblock In \emph{International Joint Conference on Neural Networks}, number
+  1288, 2013.
+
 \bibitem[Mammeri et~al.(2013{\natexlab{b}})Mammeri, Boukerche, Feng, and
   Wang]{109}
 Abdelhamid Mammeri, Azzedine Boukerche, Jingwen Feng, and Renfei Wang.
@@ -701,20 +710,36 @@ Jiri Matas, Ondrej Chum, Martin Urban, and Tom{\'a}s Pajdla.
 \newblock \emph{Image and vision computing}, 22\penalty0 (10):\penalty0
   761--767, 2004{\natexlab{a}}.
 
-\bibitem[112()]{112}
+\bibitem[Burges(1998)]{112}
+Christopher~JC Burges.
+\newblock A tutorial on support vector machines for pattern recognition.
+\newblock \emph{Data mining and knowledge discovery}, 2\penalty0 (2):\penalty0
+  121--167, 1998.
 
+\bibitem[Suard et~al.(2006)Suard, Rakotomamonjy, and Bensrhair]{113}
+Fr{\'e}d{\'e}ric Suard, Alain Rakotomamonjy, and Abdelaziz Bensrhair.
+\newblock Object categorization using kernels combining graphs and histograms
+  of gradients.
+\newblock In \emph{Image Analysis and Recognition}, pages 23--34. Springer,
+  2006.
 
-\bibitem[113()]{113}
+\bibitem[Beis and Lowe(1997)]{114}
+Jeffrey~S Beis and David~G Lowe.
+\newblock Shape indexing using approximate nearest-neighbour search in
+  high-dimensional spaces.
+\newblock In \emph{Computer Vision and Pattern Recognition, 1997. Proceedings.,
+  1997 IEEE Computer Society Conference on}, pages 1000--1006. IEEE, 1997.
 
+\bibitem[Breiman(2001)]{115}
+Leo Breiman.
+\newblock Random forests.
+\newblock \emph{Machine learning}, 45\penalty0 (1):\penalty0 5--32, 2001.
 
-\bibitem[114()]{114}
-
-
-\bibitem[115()]{115}
-
-
-\bibitem[116()]{116}
-
+\bibitem[Watanabe(1999)]{116}
+Toyohide Watanabe.
+\newblock Document analysis and recognition.
+\newblock \emph{IEICE transactions on information and systems}, 82\penalty0
+  (3):\penalty0 601--610, 1999.
 
 \bibitem[Paristech et~al.({\natexlab{b}})Paristech, Dorizzi, Christian,
   Patrick, Examinateur, Bogdan, Examinateur, Fawzi, and Examinateur]{117}
@@ -730,21 +755,11 @@ T.~Gritti, Caifeng Shan, V.~Jeanne, and R.~Braspenning.
   registration errors.
 \newblock In \emph{Automatic Face Gesture Recognition, 2008. FG '08. 8th IEEE
   International Conference on}, pages 1--8, Sept 2008.
-\newblock \doi{10.1109/AFGR.2008.4813379}.
 
 \bibitem[Joachims()]{119}
 Thorsten Joachims.
 \newblock \emph{Support Vector Machine}.
 \newblock \url{http://svmlight.joachims.org/}.
-
-\bibitem[Houben et~al.(2013)Houben, Stallkamp, Salmen, Schlipsing, and
-  Igel]{126}
-Sebastian Houben, Johannes Stallkamp, Jan Salmen, Marc Schlipsing, and
-  Christian Igel.
-\newblock Detection of traffic signs in real-world images: The {G}erman
-  {T}raffic {S}ign {D}etection {B}enchmark.
-\newblock In \emph{International Joint Conference on Neural Networks}, number
-  1288, 2013.
 
 \bibitem[Stallkamp et~al.(2011)Stallkamp, Schlipsing, Salmen, and Igel]{120}
 Johannes Stallkamp, Marc Schlipsing, Jan Salmen, and Christian Igel.
@@ -777,8 +792,6 @@ J.~Greenhalgh and M.~Mirmehdi.
 \newblock Real-time detection and recognition of road traffic signs.
 \newblock \emph{Intelligent Transportation Systems, IEEE Transactions on},
   13\penalty0 (4):\penalty0 1498--1506, Dec 2012.
-\newblock ISSN 1524-9050.
-\newblock \doi{10.1109/TITS.2012.2208909}.
 
 \bibitem[Kehtarnavaz and Ahmad(1995)]{31}
 N~Kehtarnavaz and A~Ahmad.

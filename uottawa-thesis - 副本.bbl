@@ -1,0 +1,802 @@
+\begin{thebibliography}{120}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[36()]{36}
+\emph{RGB Color Space}.
+\newblock
+  \url{http://photo.hanyu.iciba.com/upload/encyclopedia_2/88/95/bk_889574aebacda6bfd3e534e2b49b8028_vheBLq.jpg}.
+
+\bibitem[39()]{39}
+\emph{HSV Color Space}.
+\newblock
+  \url{http://www.tsi.telecom-paristech.fr/pages/enseignement/ressources/beti/correl_couleur/images/couleur-HSV2-hexcone.jpg}.
+
+\bibitem[Otto()]{40}
+George Otto.
+\newblock \emph{Organizing Color}.
+\newblock
+  \url{http://viz.aset.psu.edu/gho/sem_notes/color_2d/html/primary_systems.html}.
+
+\bibitem[Intel()]{49}
+Intel.
+\newblock \emph{Color Models}.
+\newblock
+  \url{https://software.intel.com/sites/products/documentation/hpc/ipp/ippi/ippi_ch6/ch6_color_models.html}.
+
+\bibitem[Wei(2008)]{125}
+Yu~Wei.
+\newblock The distance between two points under the consideration of the
+  curvature of the earth.
+\newblock \emph{Aero Weaponry}, \penalty0 (3):\penalty0 7--11, 2008.
+
+\bibitem[Akatsuka and Imai()]{1}
+Hidehiko Akatsuka and Shinichiro Imai.
+\newblock Road signposts recognition system.
+\newblock \emph{Training}, 2013:\penalty0 12--11.
+
+\bibitem[Zhu et~al.(2006)Zhu, Liu, and Lu]{2}
+Shuangdong Zhu, Lanlan Liu, and Xiaofeng Lu.
+\newblock Colors-geometric model for traffic sign recognition.
+\newblock \emph{Computationla Engineering in Systems Application IMACS
+  Multiconference}, 2:\penalty0 2028--2032, 2006.
+
+\bibitem[Kehtarnavaz et~al.(1993)Kehtarnavaz, Griswold, and Kang]{3}
+Nasser Kehtarnavaz, NC~Griswold, and DS~Kang.
+\newblock Stop-sign recognition based on color/shape processing.
+\newblock \emph{Machine Vision and Applications}, 6\penalty0 (4):\penalty0
+  206--208, 1993.
+
+\bibitem[De~Saint~Blancard(1992)]{4}
+Marie De~Saint~Blancard.
+\newblock Road sign recognition: A study of vision-based decision making for
+  road environment recognition.
+\newblock In \emph{Vision-based vehicle guidance}, pages 162--172. Springer,
+  1992.
+
+\bibitem[Estable et~al.(1994)Estable, Schick, Stein, Janssen, Ott, Ritter, and
+  Zheng]{5}
+S~Estable, J~Schick, F~Stein, R~Janssen, R~Ott, W~Ritter, and Y-J Zheng.
+\newblock A real-time traffic sign recognition system.
+\newblock In \emph{Intelligent Vehicles' 94 Symposium, Proceedings of the},
+  pages 213--218. IEEE, 1994.
+
+\bibitem[Piccioli et~al.(1994)Piccioli, De~Micheli, and Campani]{6}
+Giulia Piccioli, Enrico De~Micheli, and Marco Campani.
+\newblock A robust method for road sign detection and recognition.
+\newblock In \emph{Computer Vision—ECCV'94}, pages 493--500. Springer, 1994.
+
+\bibitem[Wei and De~Ma(1994)]{7}
+Guo-Qing Wei and Song De~Ma.
+\newblock Implicit and explicit camera calibration: Theory and experiments.
+\newblock \emph{Pattern Analysis and Machine Intelligence, IEEE Transactions
+  on}, 16\penalty0 (5):\penalty0 469--480, 1994.
+
+\bibitem[Maoling et~al.(2000)Maoling, Songde, and Yi]{8}
+Qiu Maoling, Ma~Songde, and Li~Yi.
+\newblock Overview of camera calibration for computer vision.
+\newblock \emph{Acta Automatica Sinica}, 26\penalty0 (1):\penalty0 43--55,
+  2000.
+
+\bibitem[of~Pattern Recognition~(China)()]{9}
+National~Laboratory of~Pattern Recognition~(China).
+\newblock \emph{Camera Calibration}.
+\newblock Chinese Academy of Sciences.
+
+\bibitem[Tsai(1987)]{10}
+Roger~Y Tsai.
+\newblock A versatile camera calibration technique for high-accuracy 3d machine
+  vision metrology using off-the-shelf tv cameras and lenses.
+\newblock \emph{Robotics and Automation, IEEE Journal of}, 3\penalty0
+  (4):\penalty0 323--344, 1987.
+
+\bibitem[11()]{11}
+\emph{Camera Calibration}.
+\newblock \url{http://baike.baidu.com/view/380491.htm?fr=aladdin.}
+
+\bibitem[Eisert et~al.(1999)Eisert, Steinbach, and Girod]{12}
+Peter Eisert, Eckehard Steinbach, and Bernd Girod.
+\newblock Multi-hypothesis, volumetric reconstruction of 3-d objects from
+  multiple calibrated camera views.
+\newblock In \emph{Acoustics, Speech, and Signal Processing, 1999.
+  Proceedings., 1999 IEEE International Conference on}, volume~6, pages
+  3509--3512. IEEE, 1999.
+
+\bibitem[Faugeras et~al.(1992)Faugeras, Luong, and Maybank]{13}
+Olivier~D Faugeras, Q-T Luong, and Stephen~J Maybank.
+\newblock Camera self-calibration: Theory and experiments.
+\newblock In \emph{Computer Vision—ECCV'92}, pages 321--334. Springer, 1992.
+
+\bibitem[Pollefeys et~al.(1999)Pollefeys, Koch, and Van~Gool]{14}
+Marc Pollefeys, Reinhard Koch, and Luc Van~Gool.
+\newblock Self-calibration and metric reconstruction inspite of varying and
+  unknown intrinsic camera parameters.
+\newblock \emph{International Journal of Computer Vision}, 32\penalty0
+  (1):\penalty0 7--25, 1999.
+
+\bibitem[Hu et~al.(2006)Hu, Li, and Zhao]{15}
+Peicheng Hu, Ning Li, and Liangliang Zhao.
+\newblock A novel approach for camera calibration based on vanishing points.
+\newblock In \emph{The 13th National Academic Conference on image and
+  graphics}, pages 1--4, 2006.
+
+\bibitem[De~Ma(1996)]{16}
+Song De~Ma.
+\newblock A self-calibration technique for active vision systems.
+\newblock \emph{Robotics and Automation, IEEE Transactions on}, 12\penalty0
+  (1):\penalty0 114--120, 1996.
+
+\bibitem[Zhang(2000)]{17}
+Zhengyou Zhang.
+\newblock A flexible new technique for camera calibration.
+\newblock \emph{Pattern Analysis and Machine Intelligence, IEEE Transactions
+  on}, 22\penalty0 (11):\penalty0 1330--1334, 2000.
+
+\bibitem[Ruta et~al.(2010)Ruta, Li, and Liu]{18}
+Andrzej Ruta, Yongmin Li, and Xiaohui Liu.
+\newblock Real-time traffic sign recognition from video by class-specific
+  discriminative features.
+\newblock \emph{Pattern Recognition}, 43\penalty0 (1):\penalty0 416--430, 2010.
+
+\bibitem[Marsi et~al.(2007)Marsi, Impoco, Ukovich, Carrato, and Ramponi]{19}
+Stefano Marsi, Gaetano Impoco, Anna Ukovich, Sergio Carrato, and Giovanni
+  Ramponi.
+\newblock Video enhancement and dynamic range control of hdr sequences for
+  automotive applications.
+\newblock \emph{EURASIP Journal on Advances in Signal Processing}, 2007, 2007.
+
+\bibitem[Ward(2001)]{20}
+Greg Ward.
+\newblock High dynamic range imaging.
+\newblock In \emph{Color and Imaging Conference}, volume 2001, pages 9--16.
+  Society for Imaging Science and Technology, 2001.
+
+\bibitem[Paristech et~al.({\natexlab{a}})Paristech, Dorizzi, Christian,
+  Patrick, Examinateur, Bogdan, Examinateur, Fawzi, and Examinateur]{21}
+Doctorat Paristech, Mme~Bernadette Dorizzi, M.~Christian, M.~Patrick, Siarry
+  Examinateur, M.~Bogdan, Stanciulescu Examinateur, M.~Fawzi, and Nashashibi
+  Examinateur.
+\newblock Multiclass object recognition for driving assistance systems and
+  video surveillance, {\natexlab{a}}.
+
+\bibitem[Arens et~al.(1991)Arens, Saremi, and Simmons]{22}
+JB~Arens, AR~Saremi, and CJ~Simmons.
+\newblock Color recognition of retroreflective traffic signs under various
+  lighting conditions.
+\newblock \emph{Public Roads}, 55\penalty0 (1), 1991.
+
+\bibitem[Sekanina and Torresen(2002)]{23}
+Lukas Sekanina and Jim Torresen.
+\newblock Detection of norwegian speed limit signs.
+\newblock In \emph{ESM}, pages 337--340, 2002.
+
+\bibitem[Yang et~al.(2003)Yang, Liu, Liu, and Huang]{24}
+Hsiu-Ming Yang, Chao-Lin Liu, Kun-Hao Liu, and Shang-Ming Huang.
+\newblock Traffic sign recognition in disturbing environments.
+\newblock In \emph{Foundations of Intelligent Systems}, pages 252--261.
+  Springer, 2003.
+
+\bibitem[Torresen et~al.(2004)Torresen, Bakke, and Sekanina]{25}
+Jim Torresen, Jorgen~W Bakke, and Lukas Sekanina.
+\newblock Efficient recognition of speed limit signs.
+\newblock In \emph{Intelligent Transportation Systems}, pages 652--656, 2004.
+
+\bibitem[De~La~Escalera et~al.(1997{\natexlab{a}})De~La~Escalera, Moreno,
+  Salichs, and Armingol]{26}
+Arturo De~La~Escalera, Luis~E Moreno, Miguel~Angel Salichs, and
+  Jos{\'e}~Mar{\'\i}a Armingol.
+\newblock Road traffic sign detection and classification.
+\newblock \emph{Industrial Electronics, IEEE Transactions on}, 44\penalty0
+  (6):\penalty0 848--859, 1997{\natexlab{a}}.
+
+\bibitem[dong Zhu et~al.(2005)dong Zhu, Yi, and Xiao-feng]{27}
+Shuang dong Zhu, Zhany Yi, and Lu~Xiao-feng.
+\newblock Detection for triangle traffic sign based on neural network.
+\newblock In \emph{Vehicular Electronics and Safety, 2005. IEEE International
+  Conference on}, pages 25--28, Oct 2005.
+\newblock \doi{10.1109/ICVES.2005.1563608}.
+
+\bibitem[Miura et~al.(2000{\natexlab{a}})Miura, Kanda, and Shirai]{28}
+Jun Miura, Tsuyoshi Kanda, and Yoshiaki Shirai.
+\newblock An active vision system for real-time traffic sign recognition.
+\newblock In \emph{Intelligent Transportation Systems, 2000. Proceedings. 2000
+  IEEE}, pages 52--57. IEEE, 2000{\natexlab{a}}.
+
+\bibitem[Vitabile et~al.(2002)Vitabile, Gentile, and Sorbello]{29}
+S~Vitabile, A~Gentile, and F~Sorbello.
+\newblock A neural network based automatic road signs recognizer.
+\newblock In \emph{Neural Networks, 2002. IJCNN'02. Proceedings of the 2002
+  International Joint Conference on}, volume~3, pages 2315--2320. IEEE, 2002.
+
+\bibitem[Ohara et~al.(2002)Ohara, Nishikawa, Miki, and Yabuki]{32}
+Hirofumi Ohara, Ikuko Nishikawa, Shigeto Miki, and Noboru Yabuki.
+\newblock Detection and recognition of road signs using simple layered neural
+  networks.
+\newblock In \emph{Neural Information Processing, 2002. ICONIP'02. Proceedings
+  of the 9th International Conference on}, volume~2, pages 626--630. IEEE,
+  2002.
+
+\bibitem[Shuangdong and Tian-tian(2005)]{33}
+Zhu Shuangdong and Jiang Tian-tian.
+\newblock Intelligence approach of traffic sign recognition based on color
+  standardization.
+\newblock In \emph{Vehicular Electronics and Safety, 2005. IEEE International
+  Conference on}, pages 296--300, Oct 2005.
+\newblock \doi{10.1109/ICVES.2005.1563660}.
+
+\bibitem[Gao et~al.(2006)Gao, Podladchikova, Shaposhnikov, Hong, and
+  Shevtsova]{35}
+Xiaohong~W Gao, Lubov Podladchikova, Dmitry Shaposhnikov, Kunbin Hong, and
+  Natalia Shevtsova.
+\newblock Recognition of traffic signs based on their colour and shape features
+  extracted using human vision models.
+\newblock \emph{Journal of Visual Communication and Image Representation},
+  17\penalty0 (4):\penalty0 675--685, 2006.
+
+\bibitem[Lopez and Fuentes(2007)]{51}
+Luis~David Lopez and Olac Fuentes.
+\newblock Color-based road sign detection and tracking.
+\newblock In \emph{Image Analysis and Recognition}, pages 1138--1147. Springer,
+  2007.
+
+\bibitem[Ruta et~al.(2011)Ruta, Porikli, Watanabe, and Li]{52}
+Andrzej Ruta, Fatih Porikli, Shintaro Watanabe, and Yongmin Li.
+\newblock In-vehicle camera traffic sign detection and recognition.
+\newblock \emph{Machine Vision and Applications}, 22\penalty0 (2):\penalty0
+  359--375, 2011.
+
+\bibitem[Lim et~al.(2010)Lim, Seng, and Ang]{53}
+King~Hann Lim, Kah~Phooi Seng, and Li~Minn Ang.
+\newblock Intra color-shape classification for traffic sign recognition.
+\newblock In \emph{Computer Symposium (ICS), 2010 International}, pages
+  642--647. IEEE, 2010.
+
+\bibitem[Bahlmann et~al.(2005)Bahlmann, Zhu, Ramesh, Pellkofer, and
+  Koehler]{54}
+Claus Bahlmann, Ying Zhu, Visvanathan Ramesh, Martin Pellkofer, and Thorsten
+  Koehler.
+\newblock A system for traffic sign detection, tracking, and recognition using
+  color, shape, and motion information.
+\newblock In \emph{Intelligent Vehicles Symposium, 2005. Proceedings. IEEE},
+  pages 255--260. IEEE, 2005.
+
+\bibitem[G{\'o}mez-Moreno et~al.(2010)G{\'o}mez-Moreno, Maldonado-Basc{\'o}n,
+  Gil-Jim{\'e}nez, and Lafuente-Arroyo]{55}
+Hilario G{\'o}mez-Moreno, Saturnino Maldonado-Basc{\'o}n, Pedro
+  Gil-Jim{\'e}nez, and Sergio Lafuente-Arroyo.
+\newblock Goal evaluation of segmentation algorithms for traffic sign
+  recognition.
+\newblock \emph{Intelligent Transportation Systems, IEEE Transactions on},
+  11\penalty0 (4):\penalty0 917--930, 2010.
+
+\bibitem[Bui-Minh et~al.(2012)Bui-Minh, Ghita, Whelan, Hoang, and Truong]{56}
+Thanh Bui-Minh, Ovidiu Ghita, Paul~F Whelan, Trang Hoang, and Vinh~Quang
+  Truong.
+\newblock Two algorithms for detection of mutually occluding traffic signs.
+\newblock In \emph{Control, Automation and Information Sciences (ICCAIS), 2012
+  International Conference on}, pages 120--125. IEEE, 2012.
+
+\bibitem[Maldonado~Basc{\'o}n et~al.(2010)Maldonado~Basc{\'o}n,
+  Acevedo~Rodr{\'\i}guez, Lafuente~Arroyo, Fernndez~Caballero, and
+  L{\'o}pez-Ferreras]{57}
+Saturnino Maldonado~Basc{\'o}n, Javier Acevedo~Rodr{\'\i}guez, Sergio
+  Lafuente~Arroyo, A~Fernndez~Caballero, and Francisco L{\'o}pez-Ferreras.
+\newblock An optimization on pictogram identification for the road-sign
+  recognition task using svms.
+\newblock \emph{Computer Vision and Image Understanding}, 114\penalty0
+  (3):\penalty0 373--383, 2010.
+
+\bibitem[Fleyeh(2006)]{58}
+Hasan Fleyeh.
+\newblock Shadow and highlight invariant colour segmentation algorithm for
+  traffic signs.
+\newblock In \emph{Cybernetics and Intelligent Systems, 2006 IEEE Conference
+  on}, pages 1--7. IEEE, 2006.
+
+\bibitem[Kuo and Lin(2007{\natexlab{a}})]{59}
+Wen-Jia Kuo and Chien-Chung Lin.
+\newblock Two-stage road sign detection and recognition.
+\newblock In \emph{Multimedia and Expo, 2007 IEEE International Conference on},
+  pages 1427--1430. IEEE, 2007{\natexlab{a}}.
+
+\bibitem[Maldonado-Bascon et~al.(2007)Maldonado-Bascon, Lafuente-Arroyo,
+  Gil-Jimenez, Gomez-Moreno, and L{\'o}pez-Ferreras]{37}
+Saturnino Maldonado-Bascon, Sergio Lafuente-Arroyo, Pedro Gil-Jimenez, Hilario
+  Gomez-Moreno, and Francisco L{\'o}pez-Ferreras.
+\newblock Road-sign detection and recognition based on support vector machines.
+\newblock \emph{Intelligent Transportation Systems, IEEE Transactions on},
+  8\penalty0 (2):\penalty0 264--278, 2007.
+
+\bibitem[Huang and Sun(2004)]{38}
+Zhiyong Huang and guangmin Sun.
+\newblock Traffic sign segment based on rgb vision model.
+\newblock \emph{Intelligent Transportation Systems, IEEE Transactions on},
+  21\penalty0 (10):\penalty0 147--152, 2004.
+
+\bibitem[Smith(1978)]{41}
+Alvy~Ray Smith.
+\newblock Color gamut transform pairs.
+\newblock In \emph{ACM Siggraph Computer Graphics}, volume~12, pages 12--19.
+  ACM, 1978.
+
+\bibitem[Fleyeh(2005)]{42}
+Hasan Fleyeh.
+\newblock Road and traffic sign color detection and segmentation-a fuzzy
+  approach.
+\newblock \emph{Red}, 250:\penalty0 207, 2005.
+
+\bibitem[Kuo and Lin(2007{\natexlab{b}})]{43}
+Wen-Jia Kuo and Chien-Chung Lin.
+\newblock Two-stage road sign detection and recognition.
+\newblock In \emph{Multimedia and Expo, 2007 IEEE International Conference on},
+  pages 1427--1430. IEEE, 2007{\natexlab{b}}.
+
+\bibitem[De~La~Escalera et~al.(1997{\natexlab{b}})De~La~Escalera, Moreno,
+  Salichs, and Armingol]{44}
+Arturo De~La~Escalera, Luis~E Moreno, Miguel~Angel Salichs, and
+  Jos{\'e}~Mar{\'\i}a Armingol.
+\newblock Road traffic sign detection and classification.
+\newblock \emph{Industrial Electronics, IEEE Transactions on}, 44\penalty0
+  (6):\penalty0 848--859, 1997{\natexlab{b}}.
+
+\bibitem[Yao(2006)]{45}
+Min Yao.
+\newblock \emph{Digital image processing}.
+\newblock Mechanical Industry Press, 2006.
+
+\bibitem[Kiran et~al.(2008)Kiran, Prabhu, Rahiman, Rajeev, and Sreekumar]{46}
+CG~Kiran, Lekhesh~V Prabhu, VA~Rahiman, K~Rajeev, and A~Sreekumar.
+\newblock Support vector machine learning based traffic sign detection and
+  shape classification using distance to borders and distance from center
+  features.
+\newblock In \emph{TENCON 2008-2008 IEEE Region 10 Conference}, pages 1--6.
+  IEEE, 2008.
+
+\bibitem[Lafuente-Arroyo et~al.(2004)Lafuente-Arroyo, Garc{\i}a-D{\i}az,
+  Acevedo-Rodr{\i}guez, Gil-Jim{\'e}nez, and Maldonado-Basc{\'o}n]{47}
+S~Lafuente-Arroyo, P~Garc{\i}a-D{\i}az, FJ~Acevedo-Rodr{\i}guez,
+  P~Gil-Jim{\'e}nez, and S~Maldonado-Basc{\'o}n.
+\newblock Traffic sign classification invariant to rotations using support
+  vector machines.
+\newblock \emph{Proceedings of Advabced Concepts for Intelligent Vision
+  Systems, Brussels, Belgium}, 2004.
+
+\bibitem[Shadeed et~al.(2003)Shadeed, Abu-Al-Nadi, and Mismar]{48}
+WG~Shadeed, DI~Abu-Al-Nadi, and MJ~Mismar.
+\newblock Road traffic sign detection in color images.
+\newblock In \emph{Electronics, Circuits and Systems, 2003. ICECS 2003.
+  Proceedings of the 2003 10th IEEE International Conference on}, volume~2,
+  pages 890--893. IEEE, 2003.
+
+\bibitem[Won et~al.(2008)Won, Lee, and Son]{50}
+Woong-Jae Won, Minho Lee, and Joon-Woo Son.
+\newblock Implementation of road traffic signs detection based on saliency map
+  model.
+\newblock In \emph{Intelligent Vehicles Symposium, 2008 IEEE}, pages 542--547.
+  IEEE, 2008.
+
+\bibitem[Miura et~al.(2000{\natexlab{b}})Miura, Kanda, and Shirai]{60}
+Jun Miura, Tsuyoshi Kanda, and Yoshiaki Shirai.
+\newblock An active vision system for real-time traffic sign recognition.
+\newblock In \emph{Intelligent Transportation Systems, 2000. Proceedings. 2000
+  IEEE}, pages 52--57. IEEE, 2000{\natexlab{b}}.
+
+\bibitem[Mammeri et~al.(2013{\natexlab{a}})Mammeri, Boukerche, and Almulla]{61}
+A.~Mammeri, A.~Boukerche, and M.~Almulla.
+\newblock Design of traffic sign detection, recognition, and transmission
+  systems for smart vehicles.
+\newblock \emph{Wireless Communications, IEEE}, 20\penalty0 (6):\penalty0
+  36--43, December 2013{\natexlab{a}}.
+\newblock ISSN 1536-1284.
+\newblock \doi{10.1109/MWC.2013.6704472}.
+
+\bibitem[Garcia et~al.(2003)Garcia, Sotelo, and Gorostiza]{62}
+Miguel~Angel Garcia, Miguel~Angel Sotelo, and Ernesto~Mart{\'\i}n Gorostiza.
+\newblock Traffic sign detection in static images using matlab.
+\newblock In \emph{Emerging Technologies and Factory Automation, 2003.
+  Proceedings. ETFA'03. IEEE Conference}, volume~2, pages 212--215. IEEE, 2003.
+
+\bibitem[Hsu and Huang(2001)]{63}
+S-H Hsu and C-L Huang.
+\newblock Road sign detection and recognition using matching pursuit method.
+\newblock \emph{Image and Vision Computing}, 19\penalty0 (3):\penalty0
+  119--129, 2001.
+
+\bibitem[Shneier(2006)]{64}
+Michael Shneier.
+\newblock Road sign detection and recognition.
+\newblock In \emph{Defense and Security Symposium}, pages 623016--623016.
+  International Society for Optics and Photonics, 2006.
+
+\bibitem[Grigorescu and Petkov(2003)]{65}
+Cosmin Grigorescu and Nicolai Petkov.
+\newblock Distance sets for shape filters and shape recognition.
+\newblock \emph{Image Processing, IEEE Transactions on}, 12\penalty0
+  (10):\penalty0 1274--1286, 2003.
+
+\bibitem[Barnes and Zelinsky(2004)]{66}
+Nick Barnes and Alex Zelinsky.
+\newblock Real-time radial symmetry for speed sign detection.
+\newblock In \emph{Intelligent Vehicles Symposium, 2004 IEEE}, pages 566--571.
+  IEEE, 2004.
+
+\bibitem[Loy and Barnes(2004{\natexlab{a}})]{67}
+Gareth Loy and Nick Barnes.
+\newblock Fast shape-based road sign detection for a driver assistance system.
+\newblock In \emph{Intelligent Robots and Systems, 2004.(IROS 2004).
+  Proceedings. 2004 IEEE/RSJ International Conference on}, volume~1, pages
+  70--75. IEEE, 2004{\natexlab{a}}.
+
+\bibitem[Loy and Barnes(2004{\natexlab{b}})]{69}
+Gareth Loy and Nick Barnes.
+\newblock Fast shape-based road sign detection for a driver assistance system.
+\newblock In \emph{Intelligent Robots and Systems, 2004.(IROS 2004).
+  Proceedings. 2004 IEEE/RSJ International Conference on}, volume~1, pages
+  70--75. IEEE, 2004{\natexlab{b}}.
+
+\bibitem[Ho and Chen(1996)]{70}
+Chun-Ta Ho and Ling-Hwei Chen.
+\newblock A high-speed algorithm for elliptical object detection.
+\newblock \emph{Image Processing, IEEE Transactions on}, 5\penalty0
+  (3):\penalty0 547--550, 1996.
+
+\bibitem[Soetedjo and Yamada(2005)]{71}
+Aryuanto Soetedjo and Koichi Yamada.
+\newblock Fast and robust traffic sign detection.
+\newblock In \emph{Systems, Man and Cybernetics, 2005 IEEE International
+  Conference on}, volume~2, pages 1341--1346. IEEE, 2005.
+
+\bibitem[Priese et~al.(1994)Priese, Klieber, Lakmann, Rehrmann, and Schian]{72}
+Lutz Priese, Jens Klieber, Raimund Lakmann, Volker Rehrmann, and Rainer Schian.
+\newblock New results on traffic sign recognition.
+\newblock In \emph{Intelligent Vehicles' 94 Symposium, Proceedings of the},
+  pages 249--254. IEEE, 1994.
+
+\bibitem[Fang et~al.(2003)Fang, Chen, and Fuh]{74}
+Chiung-Yao Fang, Sei-Wang Chen, and Chiou-Shann Fuh.
+\newblock Road-sign detection and tracking.
+\newblock \emph{Vehicular Technology, IEEE Transactions on}, 52\penalty0
+  (5):\penalty0 1329--1341, 2003.
+
+\bibitem[Zaklouta and Stanciulescu(2012)]{80}
+Fatin Zaklouta and Bogdan Stanciulescu.
+\newblock Real-time traffic-sign recognition using tree classifiers.
+\newblock \emph{Intelligent Transportation Systems, IEEE Transactions on},
+  13\penalty0 (4):\penalty0 1507--1514, 2012.
+
+\bibitem[Franke et~al.(1998)Franke, Lindner, Paetzold, Gavrila, G{\"o}rzig, and
+  W{\"o}hler]{75}
+Uwe Franke, Frank Lindner, Frank Paetzold, Dariu Gavrila, Steffen G{\"o}rzig,
+  and Christian W{\"o}hler.
+\newblock Autonomous driving goes downtown.
+\newblock \emph{IEEE Intelligent systems}, 13\penalty0 (6):\penalty0 40--48,
+  1998.
+
+\bibitem[Aoyagi and Asakura(1996)]{76}
+Yuji Aoyagi and Toshiyuki Asakura.
+\newblock A study on traffic sign recognition in scene image using genetic
+  algorithms and neural networks.
+\newblock In \emph{Industrial Electronics, Control, and Instrumentation, 1996.,
+  Proceedings of the 1996 IEEE IECON 22nd International Conference on},
+  volume~3, pages 1838--1843. IEEE, 1996.
+
+\bibitem[Moutarde et~al.(2007)Moutarde, Bargeton, Herbin, Chanussot,
+  et~al.]{77}
+Fabien Moutarde, Alexandre Bargeton, Anne Herbin, Lowik Chanussot, et~al.
+\newblock Robust on-vehicle real-time visual detection of american and european
+  speed limit signs, with a modular traffic signs recognition system.
+\newblock In \emph{proc.}, 2007.
+
+\bibitem[Ruta et~al.(2009)Ruta, Li, Porikli, Watanabe, Kage, and Sumi]{78}
+Andrzej Ruta, Yongmin Li, Fatih Porikli, Shintaro Watanabe, Hiroshi Kage, and
+  Kazuhiko Sumi.
+\newblock A new approach for in-vehicle camera traffic sign detection and
+  recognition.
+\newblock In \emph{MVA}, pages 509--513, 2009.
+
+\bibitem[Dalal and Triggs(2005)]{79}
+Navneet Dalal and Bill Triggs.
+\newblock Histograms of oriented gradients for human detection.
+\newblock In \emph{Computer Vision and Pattern Recognition, 2005. CVPR 2005.
+  IEEE Computer Society Conference on}, volume~1, pages 886--893. IEEE, 2005.
+
+\bibitem[Overett et~al.(2014)Overett, Tychsen-Smith, Petersson, Pettersson, and
+  Andersson]{81}
+Gary Overett, Lachlan Tychsen-Smith, Lars Petersson, Niklas Pettersson, and
+  Lars Andersson.
+\newblock Creating robust high-throughput traffic sign detectors using
+  centre-surround hog statistics.
+\newblock \emph{Machine Vision and Applications}, 25\penalty0 (3):\penalty0
+  713--726, 2014.
+\newblock ISSN 0932-8092.
+\newblock \doi{10.1007/s00138-011-0393-1}.
+\newblock URL \url{http://dx.doi.org/10.1007/s00138-011-0393-1}.
+
+\bibitem[Xie et~al.(2009)Xie, Liu, Li, and Qu]{82}
+Yuan Xie, Li-feng Liu, Cui-hua Li, and Yan-yun Qu.
+\newblock Unifying visual saliency with hog feature learning for traffic sign
+  detection.
+\newblock In \emph{Intelligent Vehicles Symposium, 2009 IEEE}, pages 24--29.
+  IEEE, 2009.
+
+\bibitem[Qingsong et~al.(2010)Qingsong, Juan, and Tiantian]{83}
+Xu~Qingsong, Su~Juan, and Liu Tiantian.
+\newblock A detection and recognition method for prohibition traffic signs.
+\newblock In \emph{Image Analysis and Signal Processing (IASP), 2010
+  International Conference on}, pages 583--586. IEEE, 2010.
+
+\bibitem[Gangyi et~al.(1996)Gangyi, Yi, and Young]{84}
+Jiang Gangyi, Zheng Yi, and Choi~Tae Young.
+\newblock Morphological skeleton analysis of traffic signs on road.
+\newblock In \emph{Systems, Man, and Cybernetics, 1996., IEEE International
+  Conference on}, volume~1, pages 70--75. IEEE, 1996.
+
+\bibitem[Khan et~al.(2009)Khan, Adhami, and Bhuiyan]{85}
+Jesmin~F Khan, Reza~R Adhami, and Sharif~MA Bhuiyan.
+\newblock Image segmentation based road sign detection.
+\newblock In \emph{Southeastcon, 2009. SOUTHEASTCON'09. IEEE}, pages 24--29.
+  IEEE, 2009.
+
+\bibitem[Gil~Jim{\'e}nez et~al.(2008)Gil~Jim{\'e}nez, Basc{\'o}n, Moreno,
+  Arroyo, and Ferreras]{86}
+Pedro Gil~Jim{\'e}nez, Saturnino~Maldonado Basc{\'o}n, Hilario~G{\'o}mez
+  Moreno, Sergio~Lafuente Arroyo, and Francisco~L{\'o}pez Ferreras.
+\newblock Traffic sign shape classification and localization based on the
+  normalized fft of the signature of blobs and 2d homographies.
+\newblock \emph{Signal Processing}, 88\penalty0 (12):\penalty0 2943--2955,
+  2008.
+
+\bibitem[Miura et~al.(2000{\natexlab{c}})Miura, Kanda, and Shirai]{87}
+Jun Miura, Tsuyoshi Kanda, and Yoshiaki Shirai.
+\newblock An active vision system for real-time traffic sign recognition.
+\newblock In \emph{Intelligent Transportation Systems, 2000. Proceedings. 2000
+  IEEE}, pages 52--57. IEEE, 2000{\natexlab{c}}.
+
+\bibitem[Petersson et~al.(2004)Petersson, Fletcher, Barnes, and Zelinsky]{88}
+Lars Petersson, Luke Fletcher, Nick Barnes, and Alexander Zelinsky.
+\newblock An interactive driver assistance system monitoring the scene in and
+  out of the vehicle.
+\newblock In \emph{Robotics and Automation, 2004. Proceedings. ICRA'04. 2004
+  IEEE International Conference on}, volume~4, pages 3475--3481. IEEE, 2004.
+
+\bibitem[Fleyeh and Dougherty(2005)]{89}
+Hasan Fleyeh and Mark Dougherty.
+\newblock Road and traffic sign detection and recognition.
+\newblock In \emph{10th EWGT Meeting and 16th Mini-EURO Conference}, pages
+  644--653, 2005.
+
+\bibitem[Shi et~al.(2008)Shi, Wu, and Fleyeh]{91}
+Min Shi, Haifeng Wu, and Hasan Fleyeh.
+\newblock Support vector machines for traffic signs recognition.
+\newblock In \emph{Neural Networks, 2008. IJCNN 2008.(IEEE World Congress on
+  Computational Intelligence). IEEE International Joint Conference on}, pages
+  3820--3827. IEEE, 2008.
+
+\bibitem[Lafuente-Arroyo et~al.(2005)Lafuente-Arroyo, Gil-Jimenez,
+  Maldonado-Bascon, Lopez-Ferreras, and Maldonado-Bascon]{92}
+S~Lafuente-Arroyo, P~Gil-Jimenez, R~Maldonado-Bascon, F~Lopez-Ferreras, and
+  S~Maldonado-Bascon.
+\newblock Traffic sign shape classification evaluation i: Svm using distance to
+  borders.
+\newblock In \emph{Intelligent Vehicles Symposium, 2005. Proceedings. IEEE},
+  pages 557--562. IEEE, 2005.
+
+\bibitem[WANG and XU(2004)]{93}
+Kun-ming WANG and Zhong-ren XU.
+\newblock Study on method of traffic signs recognition based on neural network
+  and invariant moments [j].
+\newblock \emph{Application Research of Computers}, 3:\penalty0 092, 2004.
+
+\bibitem[Hoferlin and Zimmermann(2009)]{94}
+Benjamin Hoferlin and Klaus Zimmermann.
+\newblock Towards reliable traffic sign recognition.
+\newblock In \emph{Intelligent Vehicles Symposium, 2009 IEEE}, pages 324--329.
+  IEEE, 2009.
+
+\bibitem[Bargeton et~al.(2008{\natexlab{a}})Bargeton, Moutarde, Nashashibi, and
+  Bradai]{95}
+Alexandre Bargeton, Fabien Moutarde, Fawzi Nashashibi, and Benazouz Bradai.
+\newblock Improving pan-european speed-limit signs recognition with a new
+  “global number segmentation” before digit recognition.
+\newblock In \emph{Intelligent Vehicles Symposium, 2008 IEEE}, pages 349--354.
+  IEEE, 2008{\natexlab{a}}.
+
+\bibitem[Fleyeh and Dougherty(2008)]{96}
+Hasan Fleyeh and Mark Dougherty.
+\newblock Traffic sign classification using invariant features and support
+  vector machines.
+\newblock In \emph{Intelligent Vehicles Symposium, 2008 IEEE}, pages 530--535.
+  IEEE, 2008.
+
+\bibitem[Chen et~al.(2008)Chen, Chen, and Gao]{98}
+Chia-Hsiung Chen, Marcus Chen, and Tianshi Gao.
+\newblock Detection and recognition of alert traffic signs.
+\newblock \emph{Publication of Standford University}, 2008.
+
+\bibitem[Bargeton et~al.(2008{\natexlab{b}})Bargeton, Moutarde, Nashashibi, and
+  Bradai]{99}
+Alexandre Bargeton, Fabien Moutarde, Fawzi Nashashibi, and Benazouz Bradai.
+\newblock Improving pan-european speed-limit signs recognition with a new
+  “global number segmentation” before digit recognition.
+\newblock In \emph{Intelligent Vehicles Symposium, 2008 IEEE}, pages 349--354.
+  IEEE, 2008{\natexlab{b}}.
+
+\bibitem[Liu et~al.(2012)Liu, Wu, Lv, Yuan, and Zhao]{100}
+Wei Liu, Yonghua Wu, Jin Lv, Huai Yuan, and Hong Zhao.
+\newblock Us speed limit sign detection and recognition from image sequences.
+\newblock In \emph{Control Automation Robotics \& Vision (ICARCV), 2012 12th
+  International Conference on}, pages 1437--1442. IEEE, 2012.
+
+\bibitem[Gil-Jimenez et~al.(2005)Gil-Jimenez, Lafuente-Arroyo, Gomez-Moreno,
+  Lopez-Ferreras, and Maldonado-Bascon]{101}
+P~Gil-Jimenez, S~Lafuente-Arroyo, H~Gomez-Moreno, F~Lopez-Ferreras, and
+  S~Maldonado-Bascon.
+\newblock Traffic sign shape classification evaluation. part ii. fft applied to
+  the signature of blobs.
+\newblock In \emph{Intelligent Vehicles Symposium, 2005. Proceedings. IEEE},
+  pages 607--612. IEEE, 2005.
+
+\bibitem[Kalman(1960)]{102}
+Rudolph~Emil Kalman.
+\newblock A new approach to linear filtering and prediction problems.
+\newblock \emph{Journal of basic Engineering}, 82\penalty0 (1):\penalty0
+  35--45, 1960.
+
+\bibitem[Meuter et~al.(2008)Meuter, Kummert, and Muller-Schneiders]{103}
+Mirko Meuter, Anton Kummert, and S~Muller-Schneiders.
+\newblock 3d traffic sign tracking using a particle filter.
+\newblock In \emph{Intelligent Transportation Systems, 2008. ITSC 2008. 11th
+  International IEEE Conference on}, pages 168--173. IEEE, 2008.
+
+\bibitem[Lafuente-Arroyo et~al.(2007)Lafuente-Arroyo, Maldonado-Bascon,
+  Gil-Jimenez, Acevedo-Rodriguez, and Lopez-Sastre]{104}
+S~Lafuente-Arroyo, S~Maldonado-Bascon, P~Gil-Jimenez, J~Acevedo-Rodriguez, and
+  RJ~Lopez-Sastre.
+\newblock A tracking system for automated inventory of road signs.
+\newblock In \emph{Intelligent Vehicles Symposium, 2007 IEEE}, pages 166--171.
+  IEEE, 2007.
+
+\bibitem[Kalata(1984)]{105}
+Paul~R Kalata.
+\newblock The tracking index: A generalized parameter for $\alpha$-$\beta$ and
+  $\alpha$-$\beta$-$\gamma$ target trackers.
+\newblock \emph{Aerospace and Electronic Systems, IEEE Transactions on},
+  \penalty0 (2):\penalty0 174--182, 1984.
+
+\bibitem[Eichhorn and Chapelle(2004)]{106}
+Jan Eichhorn and Olivier Chapelle.
+\newblock Object categorization with svm: kernels for local features.
+\newblock 2004.
+
+\bibitem[Caltech()]{107}
+Caltech.
+\newblock \emph{Caltech 101 dataset}.
+\newblock \url{http://www.vision.caltech.edu/Image_Datasets/Caltech101/}.
+
+\bibitem[University~of California()]{108}
+San~Diego University~of California.
+\newblock \emph{Yale Face Database}.
+\newblock \url{http://vision.ucsd.edu/content/yale-face-database}.
+
+\bibitem[Houben et~al.(2013)Houben, Stallkamp, Salmen, Schlipsing, and
+  Igel]{126}
+Sebastian Houben, Johannes Stallkamp, Jan Salmen, Marc Schlipsing, and
+  Christian Igel.
+\newblock Detection of traffic signs in real-world images: The {G}erman
+  {T}raffic {S}ign {D}etection {B}enchmark.
+\newblock In \emph{International Joint Conference on Neural Networks}, number
+  1288, 2013.
+
+\bibitem[Mammeri et~al.(2013{\natexlab{b}})Mammeri, Boukerche, Feng, and
+  Wang]{109}
+Abdelhamid Mammeri, Azzedine Boukerche, Jingwen Feng, and Renfei Wang.
+\newblock North-american speed limit sign detection and recognition for smart
+  cars.
+\newblock In \emph{Local Computer Networks Workshops (LCN Workshops), 2013 IEEE
+  38th Conference on}, pages 154--161. IEEE, 2013{\natexlab{b}}.
+
+\bibitem[Stallkamp et~al.(2012)Stallkamp, Schlipsing, Salmen, and Igel]{110}
+Johannes Stallkamp, Marc Schlipsing, Jan Salmen, and Christian Igel.
+\newblock Man vs. computer: Benchmarking machine learning algorithms for
+  traffic sign recognition.
+\newblock \emph{Neural networks}, 32:\penalty0 323--332, 2012.
+
+\bibitem[Matas et~al.(2004{\natexlab{a}})Matas, Chum, Urban, and Pajdla]{111}
+Jiri Matas, Ondrej Chum, Martin Urban, and Tom{\'a}s Pajdla.
+\newblock Robust wide-baseline stereo from maximally stable extremal regions.
+\newblock \emph{Image and vision computing}, 22\penalty0 (10):\penalty0
+  761--767, 2004{\natexlab{a}}.
+
+\bibitem[Burges(1998)]{112}
+Christopher~JC Burges.
+\newblock A tutorial on support vector machines for pattern recognition.
+\newblock \emph{Data mining and knowledge discovery}, 2\penalty0 (2):\penalty0
+  121--167, 1998.
+
+\bibitem[Suard et~al.(2006)Suard, Rakotomamonjy, and Bensrhair]{113}
+Fr{\'e}d{\'e}ric Suard, Alain Rakotomamonjy, and Abdelaziz Bensrhair.
+\newblock Object categorization using kernels combining graphs and histograms
+  of gradients.
+\newblock In \emph{Image Analysis and Recognition}, pages 23--34. Springer,
+  2006.
+
+\bibitem[Beis and Lowe(1997)]{114}
+Jeffrey~S Beis and David~G Lowe.
+\newblock Shape indexing using approximate nearest-neighbour search in
+  high-dimensional spaces.
+\newblock In \emph{Computer Vision and Pattern Recognition, 1997. Proceedings.,
+  1997 IEEE Computer Society Conference on}, pages 1000--1006. IEEE, 1997.
+
+\bibitem[Breiman(2001)]{115}
+Leo Breiman.
+\newblock Random forests.
+\newblock \emph{Machine learning}, 45\penalty0 (1):\penalty0 5--32, 2001.
+
+\bibitem[Watanabe(1999)]{116}
+Toyohide Watanabe.
+\newblock Document analysis and recognition.
+\newblock \emph{IEICE transactions on information and systems}, 82\penalty0
+  (3):\penalty0 601--610, 1999.
+
+\bibitem[Paristech et~al.({\natexlab{b}})Paristech, Dorizzi, Christian,
+  Patrick, Examinateur, Bogdan, Examinateur, Fawzi, and Examinateur]{117}
+Doctorat Paristech, Mme~Bernadette Dorizzi, M.~Christian, M.~Patrick, Siarry
+  Examinateur, M.~Bogdan, Stanciulescu Examinateur, M.~Fawzi, and Nashashibi
+  Examinateur.
+\newblock Multiclass object recognition for driving assistance systems and
+  video surveillance, {\natexlab{b}}.
+
+\bibitem[Gritti et~al.(2008)Gritti, Shan, Jeanne, and Braspenning]{118}
+T.~Gritti, Caifeng Shan, V.~Jeanne, and R.~Braspenning.
+\newblock Local features based facial expression recognition with face
+  registration errors.
+\newblock In \emph{Automatic Face Gesture Recognition, 2008. FG '08. 8th IEEE
+  International Conference on}, pages 1--8, Sept 2008.
+
+\bibitem[Joachims()]{119}
+Thorsten Joachims.
+\newblock \emph{Support Vector Machine}.
+\newblock \url{http://svmlight.joachims.org/}.
+
+\bibitem[Stallkamp et~al.(2011)Stallkamp, Schlipsing, Salmen, and Igel]{120}
+Johannes Stallkamp, Marc Schlipsing, Jan Salmen, and Christian Igel.
+\newblock The german traffic sign recognition benchmark: a multi-class
+  classification competition.
+\newblock In \emph{Neural Networks (IJCNN), The 2011 International Joint
+  Conference on}, pages 1453--1460. IEEE, 2011.
+
+\bibitem[Mammeri et~al.(2013{\natexlab{c}})Mammeri, Boukerche, Feng, and
+  Wang]{124}
+Abdelhamid Mammeri, Azzedine Boukerche, Jingwen Feng, and Renfei Wang.
+\newblock Traffic sign detection, recognition and transmission system for smart
+  vehicles.
+\newblock In \emph{GlobalCom}, 2013{\natexlab{c}}.
+
+\bibitem[Zaklouta et~al.(2011)Zaklouta, Stanciulescu, and Hamdoun]{121}
+Fatin Zaklouta, Bogdan Stanciulescu, and Omar Hamdoun.
+\newblock Traffic sign classification using kd trees and random forests.
+\newblock In \emph{Neural Networks (IJCNN), The 2011 International Joint
+  Conference on}, pages 2151--2155. IEEE, 2011.
+
+\bibitem[Matas et~al.(2004{\natexlab{b}})Matas, Chum, Urban, and Pajdla]{122}
+Jiri Matas, Ondrej Chum, Martin Urban, and Tom{\'a}s Pajdla.
+\newblock Robust wide-baseline stereo from maximally stable extremal regions.
+\newblock \emph{Image and vision computing}, 22\penalty0 (10):\penalty0
+  761--767, 2004{\natexlab{b}}.
+
+\bibitem[Greenhalgh and Mirmehdi(2012)]{123}
+J.~Greenhalgh and M.~Mirmehdi.
+\newblock Real-time detection and recognition of road traffic signs.
+\newblock \emph{Intelligent Transportation Systems, IEEE Transactions on},
+  13\penalty0 (4):\penalty0 1498--1506, Dec 2012.
+
+\bibitem[Kehtarnavaz and Ahmad(1995)]{31}
+N.~Kehtarnavaz and A.~Ahmad.
+\newblock Traffic sign recognition in noisy outdoor scenes.
+\newblock In \emph{Intelligent Vehicles' 95 Symposium., Proceedings of the},
+  pages 460--465. IEEE, 1995.
+
+\end{thebibliography}

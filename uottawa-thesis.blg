@@ -5,26 +5,12 @@ A level-1 auxiliary file: parts/30.aux
 A level-1 auxiliary file: parts/40.aux
 A level-1 auxiliary file: parts/50.aux
 A level-1 auxiliary file: parts/60.aux
-The style file: unsrtnat.bst
+The style file: ieeetr.bst
 Database file #1: bibliography/keylatex.bib
-Warning--empty year in 36
-Warning--empty year in 39
-Warning--empty year in 40
-Warning--empty year in 49
-Warning--there's a number but no volume in 125
-Warning--empty year in 1
-Warning--empty year in 1
 Warning--empty year in 9
-Warning--empty year in 9
-Warning--empty year in 11
-Warning--can't use both volume and number fields in 20
-Warning--empty year in 21
+Warning--there's a number but no series in 20
 Warning--can't use both volume and number fields in 41
-Warning--there's a number but no volume in 105
+Warning--can't use both volume and number fields in 64
 Warning--empty journal in 106
-Warning--empty year in 107
-Warning--empty year in 108
 Warning--there's a number but no series in 126
-Warning--empty year in 117
-Warning--empty year in 119
-(There were 20 warnings)
+(There were 6 warnings)

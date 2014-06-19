@@ -60,7 +60,7 @@
 \contentsline {section}{\numberline {5.2}Algorithm of Computing the Distances on the Earth}{83}{section.5.2}
 \contentsline {section}{\numberline {5.3}System Design}{88}{section.5.3}
 \contentsline {section}{\numberline {5.4}Simulation on Client-side}{89}{section.5.4}
-\contentsline {chapter}{\numberline {6}Conclusion and Future Plans}{94}{chapter.6}
+\contentsline {chapter}{\numberline {6}Conclusion and Future Work}{94}{chapter.6}
 \contentsline {section}{\numberline {6.1}Conclusion}{94}{section.6.1}
-\contentsline {section}{\numberline {6.2}Future Plans}{95}{section.6.2}
+\contentsline {section}{\numberline {6.2}Future Work}{95}{section.6.2}
 \contentsline {chapter}{\textbf {References}}{96}{section*.28}
